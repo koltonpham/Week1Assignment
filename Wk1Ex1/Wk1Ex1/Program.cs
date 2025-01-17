@@ -10,7 +10,7 @@ namespace Wk1Ex1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to ITSE1302");
+            Console.WriteLine("Welcome to ITSE1302"); //print out welcome!
             Console.ReadLine();
         }
     }
