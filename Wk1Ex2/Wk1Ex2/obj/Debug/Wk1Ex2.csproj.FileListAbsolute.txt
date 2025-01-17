@@ -1,0 +1,7 @@
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\bin\Debug\Wk1Ex2.exe.config
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\bin\Debug\Wk1Ex2.exe
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\bin\Debug\Wk1Ex2.pdb
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\obj\Debug\Wk1Ex2.csproj.AssemblyReference.cache
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\obj\Debug\Wk1Ex2.csproj.CoreCompileInputs.cache
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\obj\Debug\Wk1Ex2.exe
+C:\ITSE1302\Wk1Ex2\Wk1Ex2\obj\Debug\Wk1Ex2.pdb
